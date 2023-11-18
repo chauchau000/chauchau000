@@ -11,6 +11,7 @@ Comfortable with Javascript, React, Redux, Python, Flask, SQLAlchemy, Sequelize,
 
 Fun fact: Passionate about all things Star Wars. In my free, I love baking pizza in my Gozney Roccbox.
 
+Email: adrienne.tran@gmail.com
 <!--
 **chauchau000/chauchau000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
