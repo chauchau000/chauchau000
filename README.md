@@ -9,6 +9,8 @@ As a self-proclaimed nerd since high school (read: the ONLY girl at the LAN part
 
 Comfortable with Javascript, React, Redux, Python, Flask, SQLAlchemy, Sequelize, Express, Node. 
 
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,py,flask,postgres,postman,express,nodejs,html,css,git)](https://skillicons.dev)
+
 Fun fact: Passionate about all things Star Wars. In my free, I love baking pizza in my Gozney Roccbox.
 
 Email: adrienne.tran@gmail.com
