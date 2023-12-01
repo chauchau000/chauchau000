@@ -13,11 +13,15 @@ Comfortable with Javascript, React, Redux, Python, Flask, SQLAlchemy, Sequelize,
 
 Fun fact: Passionate about all things Star Wars. In my free, I love baking pizza in my Gozney Roccbox.
 
-Email: adrienne.tran@gmail.com
+Personal Portfolio: [http://adriennetran.xyz](https://adriennetran.xyz/)
 
-<a href="https://skillicons.dev](https://www.linkedin.com/in/adrienne-tran-37226749/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width='50/>
-</a>      
+Email: adrienne.tran@gmail.com
+<p>
+    <a href="https://www.linkedin.com/in/adrienne-tran-37226749/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width='50'/>
+    </a>
+</p>
+
 
 <!--
 **chauchau000/chauchau000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
